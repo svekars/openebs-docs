@@ -15,7 +15,7 @@ Containerized storage, which is more broadly called as Container Attached Storag
 ![image](/docs/assets/das-nas-cas.png)
 
 
-As shown in the figure, in CAS approach, the local disks are given the capabilities of enterprise storage such as replication, data protection, disaster recovery and so on and the storage software is containerized. For more details about CAS, see [Architectural advantages of CAS](/docs/conceptcas.html).
+As shown in the figure, in CAS approach, the local disks are given the capabilities of enterprise storage such as replication, data protection, disaster recovery and so on and the storage software is containerized. For more details about CAS, see [Architectural advantages of CAS](/docs/conceptscas.html).
 
 
 ## Usecases of OpenEBS
